@@ -1,0 +1,31 @@
+# File layout:
+# Course | COURSE_NAME | COURSE_CODE
+# Running | YEAR
+# Running | YEAR
+# Course | COURSE_NAME | COURSE_CODE
+# Running | YEAR
+# Running | YEAR
+Course | Programsko inzenjerstvo | SARS503
+Running | 2017
+Running | 2016
+Running | 2015
+Course | Matematika 1 | SARS104
+Running | 2017
+Running | 2016
+Running | 2015
+Course | Matematika 2 | SARS201
+Running | 2017
+Running | 2016
+Running | 2015
+Course | Elektronika 1 | SARS301
+Running | 2017
+Running | 2016
+Running | 2015
+Course | Elektronika 2 | SARS402
+Running | 2017
+Running | 2016
+Running | 2015
+Course | Arhitektura racunalnih sustava | SARS501
+Running | 2017
+Running | 2016
+Running | 2015
