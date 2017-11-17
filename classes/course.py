@@ -4,7 +4,7 @@ class Course:
         self.course_code = course_code
         self.runnings = []
     def __str__(self):
-        return "%s [%s]"%(self.name, self.course_code)
+        return "%s [%s], (active: %d)"%(self.name, self.course_code, len(self.runnings))
     def add_running(self, year):
         self.runnings.append(CourseRunning(self, year))
         return self.runnings[-1]
